@@ -1,0 +1,730 @@
+<html lang="pl" xml:lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="pl" http-equiv="Content-Language"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="_top" http-equiv="Window-target"/>
+  <title>
+   Elektroniczny Dziennik - najbliższe zapowiedzi sprawdzianów - rok szkolny: 2025/2026
+  </title>
+  <meta content="mobiDziennik, dziennik elektroniczny, mobilny dziennik elektroniczny" name="keywords"/>
+  <meta content="Dziennik elektroniczny dla wszystkich rodzajów szkół spełniający wymogi ministerialne, bardzo mocno dostosowany do specyfiki polskiej szkoły" name="description"/>
+  <meta content="WizjaNet sp. z o.o., ul.Legionów 26/28, 43-300 Bielsko-Biała" name="Author"/>
+  <meta content="ALL" name="ROBOTS"/>
+  <meta content="1 day" name="revisit-after"/>
+  <link href="https://lo5bielsko.mobidziennik.pl/szablony/szablon1/wspolne/css/styl.css?ver=18.2&amp;cssv=0" rel="stylesheet" type="text/css"/>
+  <link href="https://lo5bielsko.mobidziennik.pl/szablony/szablon1/dziennik/css/styl-dziennik.css?ver=18.2&amp;cssv=0" rel="stylesheet" type="text/css"/>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/jquery-2.2.1.min.js?jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/jquery-migrate.min.js?jsv=4">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/jquery.form.js?jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/jquery.checkbox.js?jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/jquery.mask.min.js?jsv=4" type="text/javascript">
+  </script>
+  <link href="https://lo5bielsko.mobidziennik.pl/biblioteki/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://lo5bielsko.mobidziennik.pl/biblioteki/dropdown/themes/dziennik/default.advanced.css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://lo5bielsko.mobidziennik.pl/biblioteki/jquery_ui/jquery-ui-1.10.3.custom.min.js?jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/biblioteki/jquery_ui/i18n/jquery.ui.datepicker-pl.js?jsv=4" type="text/javascript">
+  </script>
+  <link href="https://lo5bielsko.mobidziennik.pl/biblioteki/jquery_ui/themes/excite-bike/jquery.ui.all.css" rel="stylesheet" type="text/css"/>
+  <link href="https://lo5bielsko.mobidziennik.pl/biblioteki/tipsy/tipsy.css" rel="stylesheet" type="text/css"/>
+  <link href="https://lo5bielsko.mobidziennik.pl/biblioteki/tipsy/tipsy-docs.css" rel="stylesheet" type="text/css"/>
+  <script src="https://lo5bielsko.mobidziennik.pl/biblioteki/tipsy/jquery.tipsy.js?jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/skrypty_funkcje.js?ver=18.2&amp;jsv=4" type="text/javascript">
+  </script>
+  <script src="https://lo5bielsko.mobidziennik.pl/js/skrypty.js?ver=18.2&amp;jsv=4" type="text/javascript">
+  </script>
+  <link href="https://lo5bielsko.mobidziennik.pl/grafika/mobidziennik-app.png" rel="Shortcut Icon" type="image/png"/>
+ </head>
+ <body contextmenu="body_right_click_menu" uid="3437">
+  <a class="sr-only" href="#tresc">
+   Przejdź do treści
+  </a>
+  <!-- TOP -->
+  <div id="top_green">
+   <div class="width1000">
+    <div class="logo">
+     <h1>
+      mob
+      <span style="color:yellow;">
+       i
+      </span>
+      Dzi
+      <span style="color:yellow;">
+       e
+      </span>
+      nnik
+      <small>
+       <a class="historia" href="https://www.mobidziennik.pl/historia-zmian" target="_blank" title="Historia Zmian">
+        ver. 18.2
+       </a>
+       ,
+       <span>
+        2025/2026
+       </span>
+      </small>
+     </h1>
+    </div>
+    <div class="menu1">
+     <a href="https://lo5bielsko.mobidziennik.pl/dziennik/instrukcje" id="menu10" title="Przegląd instrukcji dziennika (dostępna również po wciśnięciu klawisza F2)">
+      Instrukcje
+     </a>
+     <a href="https://lo5bielsko.mobidziennik.pl/dziennik/powiadomienia" id="menu7">
+      Powiadomienia
+     </a>
+     <span id="wyloguj_box" tabindex="0" title="Kozioł Antoni">
+      <span id="rola">
+       Uczeń
+       <b class="arrow_down">
+       </b>
+      </span>
+      <div id="profil_box" style="left: 774.859px;">
+       <ul>
+        <li class="li_no_hover">
+         <strong>
+          Kozioł Antoni
+         </strong>
+         <small class="szary2">
+          <br/>
+          V Liceum Ogólnokształcące
+         </small>
+        </li>
+        <li class="li_no_hover">
+         <strong>
+          Przełącz konto
+         </strong>
+        </li>
+        <li class="przelacz_konto">
+         <a href="https://lo5bielsko.mobidziennik.pl/helper/zalogujnakontoglobalne/?portal=eduportal.bielsko.pl">
+          eduportal.bielsko.pl
+         </a>
+        </li>
+        <li>
+         <a href="https://lo5bielsko.mobidziennik.pl/dziennik/poprzednielata" title="Przeglądaj archiwalne dzienniki">
+          Poprzednie lata
+         </a>
+        </li>
+        <li>
+         <a href="https://lo5bielsko.mobidziennik.pl/dziennik/edytujprofil" title="Przegląd i zarządzanie kontem">
+          Moje konto
+         </a>
+        </li>
+        <li>
+         <a href="https://lo5bielsko.mobidziennik.pl/dziennik/wyloguj" id="wyloguj" title="Wyloguj się z systemu">
+          Wyloguj
+         </a>
+        </li>
+       </ul>
+      </div>
+     </span>
+     <style type="text/css">
+      #wyloguj_box {
+        color: #fff;
+        font-size: 10pt;
+        margin-right: 15px;
+        text-shadow: 1px 1px 0px #222;
+        cursor:pointer;
+    }
+    /*#wyloguj_box:hover #rola {
+        background:#fff;
+    }*/
+    #profil_box {
+        position:absolute;
+        background:#1783db;        
+        /* border:Solid 1px #1783DB; */
+        z-index:99999999999999999999999 !important;
+        /*box-shadow: 0 2px 10px rgba(0,0,0,.2);*/
+        text-align:left;
+        top:50px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 5px;
+        transition:visibility 0.1s linear,opacity 0.1s linear;
+        visibility: hidden;
+        opacity:0;
+    }
+    #profil_box ul {
+        list-style-type: none;
+        text-shadow: none;
+        color:#fff;
+        margin:0px;
+        padding:0px;
+    }
+    #profil_box ul li {
+        border-bottom:Solid 1px #1a90f1;        
+    }
+    #profil_box ul li.przelacz_konto {
+        padding-left:30px;
+    }
+    .li_no_hover {
+        padding:10px 17px;        cursor:default;
+        background:#1577C1;
+    }
+    #profil_box ul li:not(.li_no_hover):hover {
+        -webkit-transition:all 0.2s;transition: all 0.2s;
+        background-color:#186eb3;        color:#fff;
+    }
+    #profil_box a {
+        text-shadow: none;
+        color:#fff;
+        display:block;
+        text-decoration:none;
+        padding:10px 17px;        margin:0;
+    }
+    #profil_box a:hover, #profil_box a:hover > * {
+        color:#fff;     }
+    .szary2 {
+        color:#e6e6e6;
+    }
+    .arrow_down {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        margin-left: 2px;
+        vertical-align: middle;
+        border-top: 4px dashed;
+        border-right: 4px solid transparent;
+        border-left: 4px solid transparent;        
+    }
+    #profil_box ul li.edytuj_wyloguj {
+        float:left;
+        width:50%
+    }
+     </style>
+     <script type="text/javascript">
+      $(document).ready(
+    function()
+    {
+        var wyloguj = $('#wyloguj_box');
+        var profil_box = $('#profil_box');
+
+        $(window).resize(function(){       
+            profil_box.css('left', wyloguj.offset().left + wyloguj.width() - profil_box.width() );
+        });
+        $(window).resize();
+
+        var profil_box_interval;
+
+        var wylogujOn = function(){
+            if(profil_box_interval!=undefined){
+                clearTimeout(profil_box_interval);
+            }                
+            profil_box.css('visibility', 'visible').css('opacity', '1');
+        };
+
+        var wylogujOff = function(){
+            profil_box_interval = setTimeout(function(){ profil_box.css('visibility', 'hidden').css('opacity', '0') },500);
+        };
+        
+        wyloguj.mouseenter(wylogujOn).focusin(wylogujOn);
+        wyloguj.mouseleave(wylogujOff).focusout(wylogujOff);
+        
+    }
+);
+     </script>
+     <a href="https://lo5bielsko.mobidziennik.pl/mobile/glowna" style="margin-left:10px;position:relative;" title="Przejście do wersji mobilnej systemu">
+      <img alt="Przejście do wersji mobilnej systemu" src="https://lo5bielsko.mobidziennik.pl/grafika/mobilna.png" style="position:absolute;left:-25px;top:-15px;height:49px;"/>
+     </a>
+    </div>
+    <div class="cleft">
+    </div>
+   </div>
+  </div>
+  <div id="menu_gray">
+   <div class="width1000">
+    <!-- MENU START -->
+    <ul class="dropdown dropdown-horizontal">
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/historia" id="menu15">
+       Historia
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/wiadomosci" id="menu1" style="position: relative;">
+       Wiadomości
+       <span class="powiadomienie_menu">
+        1
+       </span>
+      </a>
+      <ul>
+       <li class="first">
+        <a class="dir" href="https://lo5bielsko.mobidziennik.pl/dziennik/folderywiadomosci" id="menu81">
+         Foldery
+        </a>
+        <ul>
+         <li>
+          <a href="https://lo5bielsko.mobidziennik.pl/dziennik/zapiszfolderwiadomosci" id="menu19">
+           Nowy folder
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="https://lo5bielsko.mobidziennik.pl/dziennik/dodajwiadomosc" id="menu18">
+         Nowa wiadomość
+        </a>
+       </li>
+       <li>
+        <a href="https://lo5bielsko.mobidziennik.pl/dziennik/wiadomosciwyslane" id="menu20">
+         Wiadomości wysłane
+        </a>
+       </li>
+       <li>
+        <a href="https://lo5bielsko.mobidziennik.pl/dziennik/oswiadczenia" id="menu24">
+         Oświadczenia
+        </a>
+       </li>
+       <li>
+        <a href="https://lo5bielsko.mobidziennik.pl/dziennik/komunikaty" id="menu22">
+         Komunikaty
+        </a>
+       </li>
+       <li>
+        <a href="https://lo5bielsko.mobidziennik.pl/dziennik/biblioteka" id="menu23">
+         Biblioteka
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/planlekcji?typ=podstawowy" id="menu2">
+       Plan lekcji
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/zastepstwa" id="menu16">
+       Zastępstwa
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/oceny" id="menu3">
+       Oceny
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/zachowanie" id="menu4">
+       Zachowanie
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/obecnosci" id="menu5">
+       Frekwencja
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/tematy" id="menu8">
+       Tematy
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/zadaniadomowe" id="menu13">
+       Zadania
+      </a>
+     </li>
+     <li>
+      <a class="current" href="https://lo5bielsko.mobidziennik.pl/dziennik/sprawdziany" id="menu9">
+       Sprawdziany
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/kalendarzklasowy" id="menu11">
+       Kalendarz
+      </a>
+     </li>
+     <li>
+      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/bazaplikow" id="menu21">
+       Pliki
+      </a>
+     </li>
+    </ul>
+    <div class="cleft">
+    </div>
+    <!-- MENU STOP -->
+   </div>
+  </div>
+  <!-- CONTENT -->
+  <div id="content">
+   <a name="tresc">
+   </a>
+   <table class="spis">
+    <tbody>
+     <tr>
+      <td colspan="6">
+       <a class="button_right" href="https://lo5bielsko.mobidziennik.pl/dziennik/sprawdzianyarchiwalne" title="Przegląd archiwalnych sprawdzianów">
+        Archiwalne sprawdziany
+       </a>
+       <h1>
+        Kozioł Antoni - najbliższe sprawdziany
+       </h1>
+      </td>
+     </tr>
+     <tr class="naglowek">
+      <th>
+       Termin
+      </th>
+      <th>
+       Klasa/zespół
+      </th>
+      <th>
+       Przedmiot
+      </th>
+      <th>
+       Rodzaj
+      </th>
+      <th>
+       Tematyka
+      </th>
+      <th class="align-center">
+       Zapowiedział(a)
+      </th>
+     </tr>
+     <tr class="komorka_biala">
+      <td>
+       6 paź 2025
+       <br/>
+       <small class="szary1">
+        pon. - 09:50
+       </small>
+      </td>
+      <td>
+       <span class="autoTooltip" title="3 B">
+        3 B
+       </span>
+      </td>
+      <td>
+       <span class="autoTooltip" title="Geografia">
+        Geografia
+       </span>
+      </td>
+      <td style="font-weight:bold;">
+       <span class="autoTooltip" title="sprawdzian">
+        spr...
+       </span>
+      </td>
+      <td style="text-align:justify" width="400">
+       dział Usługi.
+      </td>
+      <td class="align-center">
+       <a class="info" href="javascript:;" style="z-index:500;">
+        Odrobińska-Podsiadło B.
+        <span style="width:auto; height:auto">
+         Wpisał(a):
+         <strong>
+          Odrobińska-Podsiadło Beata
+         </strong>
+         <br/>
+         <br/>
+         Czas wpisania:
+         <strong>
+          poniedziałek, 22 września 2025, godzina 10:12:13
+         </strong>
+         <br/>
+         <br/>
+         Ostatnia zmiana terminu:
+         <strong>
+          brak
+         </strong>
+        </span>
+       </a>
+      </td>
+     </tr>
+     <tr class="komorka_kolor">
+      <td>
+       8 paź 2025
+       <br/>
+       <small class="szary1">
+        śr. - 08:55
+       </small>
+      </td>
+      <td>
+       <span class="autoTooltip" title="3 B">
+        3 B
+       </span>
+      </td>
+      <td>
+       <span class="autoTooltip" title="Matematyka">
+        Matematyka
+       </span>
+      </td>
+      <td style="">
+       <span class="autoTooltip" title="kartkówka">
+        kar...
+       </span>
+      </td>
+      <td style="text-align:justify" width="400">
+       Równania trygonometryczne
+      </td>
+      <td class="align-center">
+       <a class="info" href="javascript:;" style="z-index:500;">
+        Rak M.
+        <span style="width:auto; height:auto">
+         Wpisał(a):
+         <strong>
+          Rak Marzena
+         </strong>
+         <br/>
+         <br/>
+         Czas wpisania:
+         <strong>
+          czwartek, 2 października 2025, godzina 18:33:36
+         </strong>
+         <br/>
+         <br/>
+         Ostatnia zmiana terminu:
+         <strong>
+          brak
+         </strong>
+        </span>
+       </a>
+      </td>
+     </tr>
+     <tr class="komorka_biala">
+      <td>
+       13 paź 2025
+       <br/>
+       <small class="szary1">
+        pon. - 08:00
+       </small>
+      </td>
+      <td>
+       <span class="autoTooltip" title="3 B">
+        3 B
+       </span>
+      </td>
+      <td>
+       <span class="autoTooltip" title="Fizyka">
+        Fizyka
+       </span>
+      </td>
+      <td style="font-weight:bold;">
+       <span class="autoTooltip" title="sprawdzian">
+        spr...
+       </span>
+      </td>
+      <td style="text-align:justify" width="400">
+       Termodynamika - teoria
+      </td>
+      <td class="align-center">
+       <a class="info" href="javascript:;" style="z-index:500;">
+        Szymik D.
+        <span style="width:auto; height:auto">
+         Wpisał(a):
+         <strong>
+          Szymik Dorota
+         </strong>
+         <br/>
+         <br/>
+         Czas wpisania:
+         <strong>
+          poniedziałek, 22 września 2025, godzina 09:41:31
+         </strong>
+         <br/>
+         <br/>
+         Ostatnia zmiana terminu:
+         <strong>
+          poniedziałek, 29 września 2025, godzina 09:01:07
+         </strong>
+        </span>
+       </a>
+      </td>
+     </tr>
+     <tr class="komorka_kolor">
+      <td>
+       16 paź 2025
+       <br/>
+       <small class="szary1">
+        czw. - 11:50
+       </small>
+      </td>
+      <td>
+       <span class="autoTooltip" title="3 B">
+        3 B
+       </span>
+      </td>
+      <td>
+       <span class="autoTooltip" title="Fizyka">
+        Fizyka
+       </span>
+      </td>
+      <td style="font-weight:bold;">
+       <span class="autoTooltip" title="sprawdzian">
+        spr...
+       </span>
+      </td>
+      <td style="text-align:justify" width="400">
+       Termodynamika  - zadania
+      </td>
+      <td class="align-center">
+       <a class="info" href="javascript:;" style="z-index:500;">
+        Szymik D.
+        <span style="width:auto; height:auto">
+         Wpisał(a):
+         <strong>
+          Szymik Dorota
+         </strong>
+         <br/>
+         <br/>
+         Czas wpisania:
+         <strong>
+          poniedziałek, 22 września 2025, godzina 09:40:45
+         </strong>
+         <br/>
+         <br/>
+         Ostatnia zmiana terminu:
+         <strong>
+          niedziela, 5 października 2025, godzina 20:12:30
+         </strong>
+        </span>
+       </a>
+      </td>
+     </tr>
+     <tr class="komorka_biala">
+      <td>
+       17 paź 2025
+       <br/>
+       <small class="szary1">
+        pt. - 07:10
+       </small>
+      </td>
+      <td>
+       <span class="autoTooltip" title="3 BEF_ang_3">
+        3 BEF_ang_3
+       </span>
+      </td>
+      <td>
+       <span class="autoTooltip" title="J. angielski">
+        J. angielski
+       </span>
+      </td>
+      <td style="font-weight:bold;">
+       <span class="autoTooltip" title="sprawdzian">
+        spr...
+       </span>
+      </td>
+      <td style="text-align:justify" width="400">
+       unit 2
+      </td>
+      <td class="align-center">
+       <a class="info" href="javascript:;" style="z-index:500;">
+        Wiencek I.
+        <span style="width:auto; height:auto">
+         Wpisał(a):
+         <strong>
+          Wiencek Izabela
+         </strong>
+         <br/>
+         <br/>
+         Czas wpisania:
+         <strong>
+          piątek, 3 października 2025, godzina 08:14:21
+         </strong>
+         <br/>
+         <br/>
+         Ostatnia zmiana terminu:
+         <strong>
+          brak
+         </strong>
+        </span>
+       </a>
+      </td>
+     </tr>
+     <tr>
+      <td colspan="5">
+      </td>
+     </tr>
+    </tbody>
+   </table>
+   <script type="text/javascript">
+    <!--
+  $(document).ready(
+    function()
+    {
+        $("a#menu9").addClass('current');
+
+        $('.naruszenie').css('cursor','help').tipsy({html:true,gravity: 'e',opacity: 1});
+    }
+);
+//-->
+   </script>
+  </div>
+  <!-- BOTTOM -->
+  <div id="bottom">
+   <div style="float:left; text-align:left; width:796px; font-size:8pt; font-family:Tahoma; color:#000;">
+    Jesteś zalogowany jako
+    <strong>
+     Antoni Kozioł
+    </strong>
+    . Ostatnie logowanie:
+    <i>
+     poniedziałek, 6 października 2025, godzina 13:43:28 z 109.243.130.74
+    </i>
+    |
+    <a class="moje_logowania" href="https://lo5bielsko.mobidziennik.pl/dziennik/mojelogowania" title="Historia logowań">
+     moje logowania
+    </a>
+    |
+    <a class="moje_logowania" href="https://lo5bielsko.mobidziennik.pl/dziennik/mapastrony" title="Mapa strony">
+     mapa strony
+    </a>
+   </div>
+   <div style="float:left; text-align:right; width:204px; font-family:Tahoma; font-weight:bold; font-size:8pt;">
+    Copyright © 2009 - 2025
+    <a class="copyrights" href="http://www.oswiata.wizja.net" target="_blank" title="Strona Internetowa - WizjaNET">
+     WizjaNet
+    </a>
+    ®
+   </div>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script type="text/javascript">
+   <!--
+      var base_url = 'https://lo5bielsko.mobidziennik.pl/dziennik/';
+      var system_url = 'https://lo5bielsko.mobidziennik.pl';
+      $(document).ready(
+            function()
+            {                
+                $("title").html($("title").html()+" - rok szkolny: 2025/2026");
+                                    $.post(
+                        'https://lo5bielsko.mobidziennik.pl/dziennik/infoopowiadomieniach', 
+                        function(data)
+                        {
+                            if(data!='')
+                            {
+                                oknoDynamiczne(data, null, null, null, $(':focusable').first());
+                                //$('#email').focus();
+                            }
+                        }
+                    );
+                                }
+      );      
+    //-->
+  </script>
+  <script type="text/javascript">
+   <!--
+    $(document).ready(
+        function()
+        {            
+                            var data_poniedzialek = '2025-10-06';
+                if(data_poniedzialek && $('select[name="data_poniedzialek"]').get(0))
+                {
+                    $('select[name="data_poniedzialek"]').each(
+                        function() {
+                            if($(this).find('option:selected').val()!=data_poniedzialek)
+                            {
+                                $(this).find('option[value="2025-10-06"]').attr('selected','selected');
+                                                            }
+                        }
+                    );
+                }
+                        }
+    );
+//-->
+  </script>
+  <div id="ajax_loading_e_dziennik" style="padding: 5px; position: fixed; bottom: 10px; box-shadow: rgb(23, 131, 219) 0px 0px 2px; border-radius: 2px; left: 1020px; opacity: 1; display: none;">
+   <img alt="" src="https://lo5bielsko.mobidziennik.pl/grafika/wait_iam_loading3.gif"/>
+  </div>
+ </body>
+</html>
