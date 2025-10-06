@@ -408,11 +408,11 @@
       </td>
       <td class="align-center">
        <a class="info" href="javascript:;" style="z-index:500;">
-        Odrobińska-Podsiadło B.
+        SURNAME NAME.
         <span style="width:auto; height:auto">
          Wpisał(a):
          <strong>
-          Odrobińska-Podsiadło Beata
+          SURNAME NAME
          </strong>
          <br/>
          <br/>
@@ -458,11 +458,11 @@
       </td>
       <td class="align-center">
        <a class="info" href="javascript:;" style="z-index:500;">
-        Rak M.
+        SURNAME NAME.
         <span style="width:auto; height:auto">
          Wpisał(a):
          <strong>
-          Rak Marzena
+          SURNAME NAME
          </strong>
          <br/>
          <br/>
@@ -508,11 +508,11 @@
       </td>
       <td class="align-center">
        <a class="info" href="javascript:;" style="z-index:500;">
-        Szymik D.
+        SURNAME NAME.
         <span style="width:auto; height:auto">
          Wpisał(a):
          <strong>
-          Szymik Dorota
+          SURNAME NAME
          </strong>
          <br/>
          <br/>
@@ -558,11 +558,11 @@
       </td>
       <td class="align-center">
        <a class="info" href="javascript:;" style="z-index:500;">
-        Szymik D.
+        SURNAME NAME.
         <span style="width:auto; height:auto">
          Wpisał(a):
          <strong>
-          Szymik Dorota
+          SURNAME NAME
          </strong>
          <br/>
          <br/>
@@ -608,11 +608,11 @@
       </td>
       <td class="align-center">
        <a class="info" href="javascript:;" style="z-index:500;">
-        Wiencek I.
+        SURNAME NAME.
         <span style="width:auto; height:auto">
          Wpisał(a):
          <strong>
-          Wiencek Izabela
+          SURNAME NAME
          </strong>
          <br/>
          <br/>
