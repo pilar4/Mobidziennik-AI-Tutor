@@ -12,7 +12,7 @@ login = getpass.getpass("Enter login: ")
 password = getpass.getpass("Enter password: ")
 url = "https://lo5bielsko.mobidziennik.pl/dziennik/sprawdziany"
 
-test =input("Do you wish to continue? Ctrl+C to quit.")
+test = input("Do you wish to continue? Ctrl+C to quit.")
 
 
 # headless (may or may not be legal, mobidziennik doesn't give permission
