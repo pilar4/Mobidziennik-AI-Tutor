@@ -76,7 +76,7 @@
      <a href="https://lo5bielsko.mobidziennik.pl/dziennik/powiadomienia" id="menu7">
       Powiadomienia
      </a>
-     <span id="wyloguj_box" tabindex="0" title="Kozioł Antoni">
+     <span id="wyloguj_box" tabindex="0" title="SURNAME NAME">
       <span id="rola">
        Uczeń
        <b class="arrow_down">
@@ -86,7 +86,7 @@
        <ul>
         <li class="li_no_hover">
          <strong>
-          Kozioł Antoni
+          SURNAME NAME
          </strong>
          <small class="szary2">
           <br/>
@@ -356,7 +356,7 @@
         Archiwalne sprawdziany
        </a>
        <h1>
-        Kozioł Antoni - najbliższe sprawdziany
+        SURNAME NAME - najbliższe sprawdziany
        </h1>
       </td>
      </tr>
@@ -654,7 +654,7 @@
    <div style="float:left; text-align:left; width:796px; font-size:8pt; font-family:Tahoma; color:#000;">
     Jesteś zalogowany jako
     <strong>
-     Antoni Kozioł
+     NAME SURENAME
     </strong>
     . Ostatnie logowanie:
     <i>
