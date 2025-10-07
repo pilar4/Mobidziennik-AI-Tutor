@@ -3,14 +3,13 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
-import getpass
 
 
-def scrape_data():
+
+def scrape_data(login, password):
 
     # settings
-    login = getpass.getpass("Enter login: ")
-    password = getpass.getpass("Enter password: ")
+
     url = "https://lo5bielsko.mobidziennik.pl/dziennik/sprawdziany"
 
     # headless (may or may not be legal, mobidziennik doesn't give permission
@@ -24,8 +23,8 @@ def scrape_data():
         "Chrome/120.0.0.0 Safari/537.36"
     )
     
-    print("(Using headless mode. Time.sleep for more human-like behaviour)")
-    print("Please use this program responsibly. Excessive requests may trigger security flags.")
+    # print("(Using headless mode. time.sleep(n) for more human-like behaviour)")
+    # print("Please use this program responsibly. Excessive requests may trigger security flags.")
     
     driver = webdriver.Chrome(options=options)
     driver.get(url)
