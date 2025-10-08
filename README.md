@@ -19,11 +19,13 @@ Users must paste their **OpenRouter API key** directly into the code.
 
 The /src/page_source.txt file contains a sample HTML response returned by the target website.
 
+
+
 -----------
 
 ### Exapmle usage:
 
-https://github.com/user-attachments/assets/d925f48c-c81a-40a7-897b-b9017fbecda2
+https://github.com/user-attachments/assets/3a1a21de-9117-4340-8c4b-aae6ec3a4c78
 
 
 Disclaimer:
