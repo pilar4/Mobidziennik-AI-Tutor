@@ -5,8 +5,6 @@
 This project demonstrates the basics of **web scraping** and **AI integration** in Python.  
 It automatically logs into the Mobidziennik website, scrapes test data, and uses OpenRouter’s AI model to generate helpful notes.
 
-
-
 ## Features:
 - [x] Loggins automaticly after inputing login/password
 - [x] Scrapes target site containing data about assigned tests
