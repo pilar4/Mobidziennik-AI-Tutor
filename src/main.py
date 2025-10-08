@@ -1,8 +1,14 @@
-import webscraper
+from src import webscraper
 import getpass
-import ai
+from src import ai
+
+
+# Please use this program responsibly. Excessive requests may trigger security flags.
+
 
 if __name__ == "__main__":
+
+    print("REMEMBER TO PASTE YOUR API KEY INTO ai.py")
 
     login = getpass.getpass("Enter login: ")
     password = getpass.getpass("Enter password: ")
